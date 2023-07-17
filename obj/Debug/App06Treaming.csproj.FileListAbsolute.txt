@@ -1,0 +1,11 @@
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\bin\Debug\App06Treaming.exe.config
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\bin\Debug\App06Treaming.exe
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\bin\Debug\App06Treaming.pdb
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\obj\Debug\App06Treaming.csproj.AssemblyReference.cache
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\obj\Debug\App06Treaming.Form1.resources
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\obj\Debug\App06Treaming.Properties.Resources.resources
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\obj\Debug\App06Treaming.csproj.GenerateResource.cache
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\obj\Debug\App06Treaming.csproj.CoreCompileInputs.cache
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\obj\Debug\App06Treaming.exe
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\obj\Debug\App06Treaming.pdb
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\obj\Debug\App06Treaming.Form2.resources
