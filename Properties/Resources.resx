@@ -127,6 +127,9 @@
   <data name="Jumper4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Jumper4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Jumper" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Jumper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Serie Suits Imagem2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Serie Suits Imagem2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -136,17 +139,14 @@
   <data name="ESSA4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ESSA4.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ESSA3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ESSA3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="maxresdefault" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\maxresdefault.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Jumper2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Jumper2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ESSA" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ESSA.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Jumper1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Jumper1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ESSA3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ESSA3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="ESSA1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\ESSA1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -154,17 +154,17 @@
   <data name="YourName2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\YourName2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="LOGO" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\LOGO.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="O gambito da rainha" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\O gambito da rainha.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Serie Suits Imagem" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Serie Suits Imagem.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Jumper3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Jumper3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Serie Suits Imagem1" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Serie Suits Imagem1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Jumper" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Jumper.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Jumper2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Jumper2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="enrolados arquivo1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\enrolados arquivo1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -178,22 +178,25 @@
   <data name="YourName3" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\YourName3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Annie With an E" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Annie With an E.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="ESSA5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ESSA5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Jumper1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Jumper1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="enrolados arquivo" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\enrolados arquivo.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="LOGO" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LOGO.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Serie Suits Imagem" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Serie Suits Imagem.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ESSA" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ESSA.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Annie With an E" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Annie With an E.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Jumper3" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Jumper3.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Serie Suits Imagem1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Serie Suits Imagem1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="ESSA5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ESSA5.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="fundomulan" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\fundomulan.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

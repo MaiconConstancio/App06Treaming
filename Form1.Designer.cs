@@ -139,6 +139,7 @@ namespace App06Treaming
             this.FotoImagemFILMES05.Size = new System.Drawing.Size(200, 100);
             this.FotoImagemFILMES05.TabIndex = 4;
             this.FotoImagemFILMES05.TabStop = false;
+            this.FotoImagemFILMES05.Click += new System.EventHandler(this.FotoImagemFILMES05_Click);
             // 
             // FotoImagemFILMES04
             // 
@@ -149,6 +150,7 @@ namespace App06Treaming
             this.FotoImagemFILMES04.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.FotoImagemFILMES04.TabIndex = 3;
             this.FotoImagemFILMES04.TabStop = false;
+            this.FotoImagemFILMES04.Click += new System.EventHandler(this.FotoImagemFILMES04_Click);
             // 
             // FotoImagemFILMES03
             // 
@@ -158,6 +160,7 @@ namespace App06Treaming
             this.FotoImagemFILMES03.Size = new System.Drawing.Size(200, 100);
             this.FotoImagemFILMES03.TabIndex = 2;
             this.FotoImagemFILMES03.TabStop = false;
+            this.FotoImagemFILMES03.Click += new System.EventHandler(this.FotoImagemFILMES03_Click);
             // 
             // FotoImagemFILMES02
             // 
@@ -167,15 +170,18 @@ namespace App06Treaming
             this.FotoImagemFILMES02.Size = new System.Drawing.Size(200, 100);
             this.FotoImagemFILMES02.TabIndex = 1;
             this.FotoImagemFILMES02.TabStop = false;
+            this.FotoImagemFILMES02.Click += new System.EventHandler(this.FotoImagemFILMES02_Click);
             // 
             // FotoImagemFILMES01
             // 
+            this.FotoImagemFILMES01.BackColor = System.Drawing.Color.Black;
             this.FotoImagemFILMES01.Image = global::App06Treaming.Properties.Resources.Jumper4;
             this.FotoImagemFILMES01.Location = new System.Drawing.Point(4, 23);
             this.FotoImagemFILMES01.Name = "FotoImagemFILMES01";
             this.FotoImagemFILMES01.Size = new System.Drawing.Size(200, 100);
             this.FotoImagemFILMES01.TabIndex = 0;
             this.FotoImagemFILMES01.TabStop = false;
+            this.FotoImagemFILMES01.Click += new System.EventHandler(this.FotoImagemFILMES01_Click);
             // 
             // FotoImagemSerie03
             // 
@@ -185,6 +191,7 @@ namespace App06Treaming
             this.FotoImagemSerie03.Size = new System.Drawing.Size(215, 120);
             this.FotoImagemSerie03.TabIndex = 2;
             this.FotoImagemSerie03.TabStop = false;
+            this.FotoImagemSerie03.Click += new System.EventHandler(this.FotoImagemSerie03_Click);
             // 
             // FotoImagemSerie02
             // 
@@ -194,6 +201,7 @@ namespace App06Treaming
             this.FotoImagemSerie02.Size = new System.Drawing.Size(215, 120);
             this.FotoImagemSerie02.TabIndex = 1;
             this.FotoImagemSerie02.TabStop = false;
+            this.FotoImagemSerie02.Click += new System.EventHandler(this.FotoImagemSerie02_Click);
             // 
             // FotoImagemSerie01
             // 
@@ -219,6 +227,7 @@ namespace App06Treaming
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
+            this.BackColor = System.Drawing.Color.Black;
             this.ClientSize = new System.Drawing.Size(773, 669);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.FilmesQueVocePrecisaSssistir);
@@ -226,6 +235,7 @@ namespace App06Treaming
             this.Controls.Add(this.TituloDeSeriesRecomendados);
             this.Controls.Add(this.PainelPrincipal);
             this.Controls.Add(this.menuStrip1);
+            this.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Form1";

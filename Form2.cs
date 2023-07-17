@@ -21,6 +21,12 @@ namespace App06Treaming
 
         private void Form2_Load(object sender, EventArgs e)
         {
+            TituloDoFilme.Text = titulo;
+            DescriçãoDoFilmeAqui.Text = descricao;
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
 
         }
     }
