@@ -29,12 +29,11 @@ namespace App06Treaming
         /// </summary>
         private void InitializeComponent()
         {
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.inicioToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.filmesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.seriesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.TituloDeSeriesRecomendados = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.FotoImagemSerie03 = new System.Windows.Forms.PictureBox();
+            this.FotoImagemSerie02 = new System.Windows.Forms.PictureBox();
+            this.FotoImagemSerie01 = new System.Windows.Forms.PictureBox();
             this.FilmesQueVocePrecisaSssistir = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             this.FotoImagemFILMES05 = new System.Windows.Forms.PictureBox();
@@ -42,53 +41,19 @@ namespace App06Treaming
             this.FotoImagemFILMES03 = new System.Windows.Forms.PictureBox();
             this.FotoImagemFILMES02 = new System.Windows.Forms.PictureBox();
             this.FotoImagemFILMES01 = new System.Windows.Forms.PictureBox();
-            this.FotoImagemSerie03 = new System.Windows.Forms.PictureBox();
-            this.FotoImagemSerie02 = new System.Windows.Forms.PictureBox();
-            this.FotoImagemSerie01 = new System.Windows.Forms.PictureBox();
             this.PainelPrincipal = new System.Windows.Forms.PictureBox();
-            this.menuStrip1.SuspendLayout();
             this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.FotoImagemSerie03)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.FotoImagemSerie02)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.FotoImagemSerie01)).BeginInit();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.FotoImagemFILMES05)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.FotoImagemFILMES04)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.FotoImagemFILMES03)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.FotoImagemFILMES02)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.FotoImagemFILMES01)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.FotoImagemSerie03)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.FotoImagemSerie02)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.FotoImagemSerie01)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.PainelPrincipal)).BeginInit();
             this.SuspendLayout();
-            // 
-            // menuStrip1
-            // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.inicioToolStripMenuItem,
-            this.filmesToolStripMenuItem,
-            this.seriesToolStripMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(773, 24);
-            this.menuStrip1.TabIndex = 0;
-            this.menuStrip1.Text = "menuStrip1";
-            // 
-            // inicioToolStripMenuItem
-            // 
-            this.inicioToolStripMenuItem.Name = "inicioToolStripMenuItem";
-            this.inicioToolStripMenuItem.Size = new System.Drawing.Size(48, 20);
-            this.inicioToolStripMenuItem.Text = "Inicio";
-            // 
-            // filmesToolStripMenuItem
-            // 
-            this.filmesToolStripMenuItem.Name = "filmesToolStripMenuItem";
-            this.filmesToolStripMenuItem.Size = new System.Drawing.Size(53, 20);
-            this.filmesToolStripMenuItem.Text = "Filmes";
-            // 
-            // seriesToolStripMenuItem
-            // 
-            this.seriesToolStripMenuItem.Name = "seriesToolStripMenuItem";
-            this.seriesToolStripMenuItem.Size = new System.Drawing.Size(49, 20);
-            this.seriesToolStripMenuItem.Text = "Series";
             // 
             // TituloDeSeriesRecomendados
             // 
@@ -108,6 +73,36 @@ namespace App06Treaming
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(750, 146);
             this.panel1.TabIndex = 3;
+            // 
+            // FotoImagemSerie03
+            // 
+            this.FotoImagemSerie03.Image = global::App06Treaming.Properties.Resources.Annie_With_an_E;
+            this.FotoImagemSerie03.Location = new System.Drawing.Point(532, 14);
+            this.FotoImagemSerie03.Name = "FotoImagemSerie03";
+            this.FotoImagemSerie03.Size = new System.Drawing.Size(215, 120);
+            this.FotoImagemSerie03.TabIndex = 2;
+            this.FotoImagemSerie03.TabStop = false;
+            this.FotoImagemSerie03.Click += new System.EventHandler(this.FotoImagemSerie03_Click);
+            // 
+            // FotoImagemSerie02
+            // 
+            this.FotoImagemSerie02.Image = global::App06Treaming.Properties.Resources.O_gambito_da_rainha1;
+            this.FotoImagemSerie02.Location = new System.Drawing.Point(269, 14);
+            this.FotoImagemSerie02.Name = "FotoImagemSerie02";
+            this.FotoImagemSerie02.Size = new System.Drawing.Size(215, 120);
+            this.FotoImagemSerie02.TabIndex = 1;
+            this.FotoImagemSerie02.TabStop = false;
+            this.FotoImagemSerie02.Click += new System.EventHandler(this.FotoImagemSerie02_Click);
+            // 
+            // FotoImagemSerie01
+            // 
+            this.FotoImagemSerie01.Image = global::App06Treaming.Properties.Resources.Serie_Suits_Imagem2;
+            this.FotoImagemSerie01.Location = new System.Drawing.Point(4, 14);
+            this.FotoImagemSerie01.Name = "FotoImagemSerie01";
+            this.FotoImagemSerie01.Size = new System.Drawing.Size(215, 120);
+            this.FotoImagemSerie01.TabIndex = 0;
+            this.FotoImagemSerie01.TabStop = false;
+            this.FotoImagemSerie01.Click += new System.EventHandler(this.FotoImagemSerie01_Click);
             // 
             // FilmesQueVocePrecisaSssistir
             // 
@@ -183,36 +178,6 @@ namespace App06Treaming
             this.FotoImagemFILMES01.TabStop = false;
             this.FotoImagemFILMES01.Click += new System.EventHandler(this.FotoImagemFILMES01_Click);
             // 
-            // FotoImagemSerie03
-            // 
-            this.FotoImagemSerie03.Image = global::App06Treaming.Properties.Resources.Annie_With_an_E;
-            this.FotoImagemSerie03.Location = new System.Drawing.Point(532, 14);
-            this.FotoImagemSerie03.Name = "FotoImagemSerie03";
-            this.FotoImagemSerie03.Size = new System.Drawing.Size(215, 120);
-            this.FotoImagemSerie03.TabIndex = 2;
-            this.FotoImagemSerie03.TabStop = false;
-            this.FotoImagemSerie03.Click += new System.EventHandler(this.FotoImagemSerie03_Click);
-            // 
-            // FotoImagemSerie02
-            // 
-            this.FotoImagemSerie02.Image = global::App06Treaming.Properties.Resources.O_gambito_da_rainha1;
-            this.FotoImagemSerie02.Location = new System.Drawing.Point(269, 14);
-            this.FotoImagemSerie02.Name = "FotoImagemSerie02";
-            this.FotoImagemSerie02.Size = new System.Drawing.Size(215, 120);
-            this.FotoImagemSerie02.TabIndex = 1;
-            this.FotoImagemSerie02.TabStop = false;
-            this.FotoImagemSerie02.Click += new System.EventHandler(this.FotoImagemSerie02_Click);
-            // 
-            // FotoImagemSerie01
-            // 
-            this.FotoImagemSerie01.Image = global::App06Treaming.Properties.Resources.Serie_Suits_Imagem2;
-            this.FotoImagemSerie01.Location = new System.Drawing.Point(4, 14);
-            this.FotoImagemSerie01.Name = "FotoImagemSerie01";
-            this.FotoImagemSerie01.Size = new System.Drawing.Size(215, 120);
-            this.FotoImagemSerie01.TabIndex = 0;
-            this.FotoImagemSerie01.TabStop = false;
-            this.FotoImagemSerie01.Click += new System.EventHandler(this.FotoImagemSerie01_Click);
-            // 
             // PainelPrincipal
             // 
             this.PainelPrincipal.Image = global::App06Treaming.Properties.Resources.ESSA5;
@@ -221,6 +186,7 @@ namespace App06Treaming
             this.PainelPrincipal.Size = new System.Drawing.Size(750, 200);
             this.PainelPrincipal.TabIndex = 1;
             this.PainelPrincipal.TabStop = false;
+            this.PainelPrincipal.Click += new System.EventHandler(this.PainelPrincipal_Click);
             // 
             // Form1
             // 
@@ -234,24 +200,20 @@ namespace App06Treaming
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.TituloDeSeriesRecomendados);
             this.Controls.Add(this.PainelPrincipal);
-            this.Controls.Add(this.menuStrip1);
             this.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.MainMenuStrip = this.menuStrip1;
             this.Name = "Form1";
             this.Text = "Form1";
             this.Load += new System.EventHandler(this.Form1_Load);
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
             this.panel1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.FotoImagemSerie03)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.FotoImagemSerie02)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.FotoImagemSerie01)).EndInit();
             this.panel2.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.FotoImagemFILMES05)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.FotoImagemFILMES04)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.FotoImagemFILMES03)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.FotoImagemFILMES02)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.FotoImagemFILMES01)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.FotoImagemSerie03)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.FotoImagemSerie02)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.FotoImagemSerie01)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.PainelPrincipal)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -259,11 +221,6 @@ namespace App06Treaming
         }
 
         #endregion
-
-        private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem inicioToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem filmesToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem seriesToolStripMenuItem;
         private System.Windows.Forms.PictureBox PainelPrincipal;
         private System.Windows.Forms.Label TituloDeSeriesRecomendados;
         private System.Windows.Forms.Panel panel1;

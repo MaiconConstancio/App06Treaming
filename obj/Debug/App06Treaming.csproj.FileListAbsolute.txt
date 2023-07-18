@@ -9,3 +9,14 @@ C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\obj\Debug\A
 C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\obj\Debug\App06Treaming.exe
 C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\obj\Debug\App06Treaming.pdb
 C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\obj\Debug\App06Treaming.Form2.resources
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\bin\Debug\Guna.UI2.dll
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\obj\Debug\App06Treaming.csproj.CopyComplete
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\bin\Debug\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\bin\Debug\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\bin\Debug\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\bin\Debug\Microsoft.Web.WebView2.Core.dll
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\bin\Debug\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\bin\Debug\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\bin\Debug\Microsoft.Web.WebView2.Core.xml
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\bin\Debug\Microsoft.Web.WebView2.WinForms.xml
+C:\Users\maicon.sconstancio\source\repos\App06Treaming\App06Treaming\bin\Debug\Microsoft.Web.WebView2.Wpf.xml
